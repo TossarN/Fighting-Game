@@ -1,0 +1,1122 @@
+﻿Log file open, 08/16/22 13:58:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=6824)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LAB
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\LAB.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="79369e6642bceb85ac2fb2a5704c35e0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.583538
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-25E6B59D43D114895B8065ADC64A9758
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.16-11.58.43:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.16-11.58.43:726][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.16-11.58.43:726][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.16-11.58.43:726][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.16-11.58.43:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.16-11.58.43:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.16-11.58.43:727][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.16-11.58.43:738][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.16-11.58.43:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.16-11.58.43:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.16-11.58.43:739][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.16-11.58.43:837][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.16-11.58.43:837][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.16-11.58.44:090][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.16-11.58.44:090][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 8121MB of shared system memory, 2 output[s]
+[2022.08.16-11.58.44:188][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics 530 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.08.16-11.58.44:188][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8121MB of shared system memory, 0 output[s]
+[2022.08.16-11.58.44:210][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.16-11.58.44:210][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8121MB of shared system memory, 0 output[s]
+[2022.08.16-11.58.44:210][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.16-11.58.44:210][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.16-11.58.44:210][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.16-11.58.44:211][  0]LogHAL: Display: Platform has ~ 16 GB [17031553024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.16-11.58.44:211][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.16-11.58.44:211][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.16-11.58.44:211][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.16-11.58.44:212][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.16-11.58.44:212][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.16-11.58.44:213][  0]LogInit: Computer: TOSSARN-DATOR
+[2022.08.16-11.58.44:213][  0]LogInit: User: TossarN
+[2022.08.16-11.58.44:213][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.16-11.58.44:213][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.16-11.58.44:213][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.16-11.58.44:213][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.16-11.58.44:213][  0]LogMemory: Process Physical Memory: 272.25 MB used, 274.14 MB peak
+[2022.08.16-11.58.44:213][  0]LogMemory: Process Virtual Memory: 208.51 MB used, 208.51 MB peak
+[2022.08.16-11.58.44:213][  0]LogMemory: Physical Memory: 9394.50 MB used,  6848.05 MB free, 16242.55 MB total
+[2022.08.16-11.58.44:213][  0]LogMemory: Virtual Memory: 14505.57 MB used,  14536.98 MB free, 29042.55 MB total
+[2022.08.16-11.58.44:213][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.16-11.58.44:219][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.16-11.58.44:324][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.16-11.58.44:327][  0]LogInit: Using OS detected language (sv-SE).
+[2022.08.16-11.58.44:327][  0]LogInit: Using OS detected locale (sv-SE).
+[2022.08.16-11.58.44:343][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2022.08.16-11.58.44:577][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.16-11.58.44:603][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.16-11.58.44:603][  0]LogWindowsTextInputMethodSystem:   - Svenska (Sverige) - (Keyboard).
+[2022.08.16-11.58.44:603][  0]LogWindowsTextInputMethodSystem:   - Engelska (USA) - (Keyboard).
+[2022.08.16-11.58.44:603][  0]LogWindowsTextInputMethodSystem:   - Svenska (Sverige) - Ink Correction (TSF IME).
+[2022.08.16-11.58.44:603][  0]LogWindowsTextInputMethodSystem: Activated input method: Svenska (Sverige) - (Keyboard).
+[2022.08.16-11.58.44:680][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.16-11.58.44:680][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.16-11.58.47:003][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.16-11.58.47:007][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.16-11.58.47:007][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.16-11.58.47:083][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.16-11.58.47:131][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.16-11.58.47:137][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.16-11.58.47:146][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.16-11.58.47:165][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.16-11.58.47:165][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.16-11.58.47:312][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.08.16-11.58.47:312][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.16-11.58.47:312][  0]LogWindows: Attached monitors:
+[2022.08.16-11.58.47:312][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.16-11.58.47:312][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1080), device: '\\.\DISPLAY2'
+[2022.08.16-11.58.47:312][  0]LogWindows: Found 2 attached monitors.
+[2022.08.16-11.58.47:312][  0]LogWindows: EnumDisplayDevices:
+[2022.08.16-11.58.47:312][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.16-11.58.47:312][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.08.16-11.58.47:313][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.16-11.58.47:313][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.16-11.58.47:313][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.08.16-11.58.47:313][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.08.16-11.58.47:314][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.08.16-11.58.47:314][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.08.16-11.58.47:314][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.08.16-11.58.47:314][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.08.16-11.58.47:314][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.08.16-11.58.47:314][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.08.16-11.58.47:314][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.16-11.58.47:314][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.16-11.58.47:355][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.16-11.58.49:490][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1060 6GB
+Installed: 512.15
+Recommended: 516.25
+[2022.08.16-11.58.49:550][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/LAB.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/TurnkeyReport_0.log" -log="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/TurnkeyLog_0.log" -project="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/LAB.uproject"  -platform=all'
+[2022.08.16-11.58.49:550][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/LAB.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/TurnkeyReport_0.log" -log="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/TurnkeyLog_0.log" -project="C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/LAB.uproject"  -platform=all" ]
+[2022.08.16-11.58.49:714][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.16-11.58.49:802][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.16-11.58.49:802][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.16-11.58.49:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.16-11.58.49:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.16-11.58.49:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.16-11.58.49:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.16-11.58.49:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.16-11.58.49:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.16-11.58.49:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.16-11.58.49:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.16-11.58.49:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.16-11.58.49:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.16-11.58.49:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.16-11.58.49:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.16-11.58.49:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.16-11.58.49:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.16-11.58.50:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.16-11.58.50:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.16-11.58.50:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.16-11.58.50:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.16-11.58.50:008][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.16-11.58.50:085][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.16-11.58.50:100][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.16-11.58.50:101][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.16-11.58.50:101][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.16-11.58.50:101][  0]LogTargetPlatformManager:   PCM
+[2022.08.16-11.58.50:117][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.16-11.58.50:117][  0]LogTargetPlatformManager:   BINKA
+[2022.08.16-11.58.50:117][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.16-11.58.50:117][  0]LogTargetPlatformManager:   OGG
+[2022.08.16-11.58.50:117][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.16-11.58.50:117][  0]LogTargetPlatformManager:   OPUS
+[2022.08.16-11.58.50:396][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.16-11.58.50:434][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.16-11.58.50:457][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.16-11.58.50:458][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.16-11.58.50:462][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.16-11.58.50:466][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.16-11.58.50:467][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.16-11.58.50:471][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.16-11.58.50:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.16-11.58.50:476][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.16-11.58.50:476][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.16-11.58.50:476][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.16-11.58.50:508][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.16-11.58.50:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.16-11.58.50:511][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.16-11.58.50:527][  0]LogDerivedDataCache: Speed tests for C:/Users/TossarN/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.08.16-11.58.50:527][  0]LogDerivedDataCache: Display: Performance to C:/Users/TossarN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.20ms. RandomReadSpeed=120.24MBs, RandomWriteSpeed=174.43MBs. Assigned SpeedClass 'Local'
+[2022.08.16-11.58.50:531][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TossarN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.16-11.58.50:532][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.16-11.58.50:532][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.16-11.58.50:550][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.16-11.58.50:550][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.16-11.58.50:562][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Intermediate/Shaders/WorkingDirectory/23844/).
+[2022.08.16-11.58.50:562][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TossarN/AppData/Local/Temp/UnrealShaderWorkingDir/A8145C4B409526CB4795F68927DC6B95/'.
+[2022.08.16-11.58.50:563][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.16-11.58.50:563][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.08.16-11.58.55:407][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.16-11.58.55:407][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.16-11.58.55:417][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.16-11.58.55:491][  0]LogAssetRegistry: FAssetRegistry took 0.0201 seconds to start up
+[2022.08.16-11.58.55:508][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.16-11.58.55:937][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.16-11.58.55:950][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.16-11.58.56:447][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.16-11.58.56:447][  0]LogDeviceProfileManager: Active device profile: [0000090648287540][000009063A6D0000 50] WindowsEditor
+[2022.08.16-11.58.56:447][  0]LogDeviceProfileManager: Profiles: [0000090648287000][000009063A6D5000 50] Windows, [0000090648287540][000009063A6D0000 50] WindowsEditor, [00000906482863C0][000009063A677800 50] WindowsServer, [00000906482839C0][000009063A60C800 50] WindowsClient, [0000090648282140][000009063A6D2800 50] IOS, [0000090648287700][000009062FDAA000 50] iPadAir2, [0000090648287E00][00000906485A2800 50] IPadPro, [0000090648288180][00000906485A0000 50] iPadAir3, [0000090648286AC0][00000906485A7800 50] iPadAir4, [0000090648286C80][00000906485AA000 50] iPadMini4, [0000090648284980][00000906485AC800 50] iPadMini5, [0000090648286740][0000090640FCC800 50] iPadMini6, [000009064828A800][00000906485B5000 50] iPhone6S, [000009064828AB80][00000906485B2800 50] iPhone7, [000009064828A480][00000906485B0000 50] iPodTouch7, [0000090648289F40][00000906485BA000 50] iPhone6SPlus, [0000090648285780][00000906485BC800 50] iPhone7Plus, [00000906482886C0][00000906485A5000 50] iPhoneSE, [0000090648289D80][00000906485C0000 50] iPhone8, [0000090648285940][00000906485C5000 50] iPhone8Plus, [0000090648284280][00000906485C7800 50] iPhoneX, [0000090648289BC0][00000906485CA000 50] iPhoneXS, [0000090648283100][00000906485CC800 50] iPhoneXSMax, [0000090648289A00][00000906485B7800 50] iPhoneXR, [000009064828A640][00000906485D0000 50] iPhone11, [0000090648289840][00000906485D5000 50] iPhone11Pro, [0000090648283640][00000906485D7800 50] iPhone11ProMax, [0000090648286200][00000906485DA000 50] iPhoneSE2, [0000090648287FC0][00000906485DC800 50] iPhone12Mini, [0000090648283D40][00000906485C2800 50] iPhone12, [00000906482855C0][00000906485E0000 50] iPhone12Pro, [000009064828A9C0][00000906485E5000 50] iPhone12ProMax, [0000090648286E40][00000906485E7800 50] iPhone13Mini, [0000090648281F80][00000906485EA000 50] iPhone13, [0000090648284D00][00000906485EC800 50] iPhone13Pro, [0000090648289680][00000906485D2800 50] iPhone13ProMax, [0000090648288500][00000906485F0000 50] iPadPro105, [0000090648287A80][00000906485F5000 50] iPadPro129, [0000090648288C00][00000906485F7800 50] iPadPro97, [0000090648282A00][00000906485FA000 50] iPadPro2_129, [0000090648288A40][00000906485FC800 50] iPad5, [00000906482847C0][00000906485E2800 50] iPad6, [0000090648289140][0000090648600000 50] iPad7, [0000090648285240][0000090648605000 50] iPad8, [0000090648283480][0000090648607800 50] iPad9, [00000906482832C0][000009064860A000 50] iPadPro11, [0000090648284EC0][000009064860C800 50] iPadPro2_11, [0000090648286580][00000906485F2800 50] iPadPro3_11, [000009064828A100][0000090648620000 50] iPadPro3_129, [0000090648286900][0000090648625000 50] iPadPro4_129, [0000090648285080][0000090648627800 50] iPadPro5_129, [0000090648282300][000009064862A000 50] AppleTV, [0000090648289300][000009064862C800 50] AppleTV4K, [0000090648283800][0000090648602800 50] TVOS, [000009064828C780][0000090648632800 50] Mac, [000009064828CB00][0000090648630000 50] MacEditor, [0000090648284600][0000090648637800 50] MacClient, [000009064828C240][000009064863A000 50] MacServer, [000009064828CE80][0000090648622800 50] Linux, [000009064828D200][000009064863C800 50] LinuxEditor, [0000090648285E80][0000090648640000 50] LinuxArm64Editor, [000009064828AF00][0000090648645000 50] LinuxArm64, [0000090648286040][0000090648647800 50] LinuxClient, [000009064828D3C0][000009064864A000 50] LinuxArm64Client, [000009064828AD40][000009064864C800 50] LinuxServer, [000009064828C940][0000090648635000 50] LinuxArm64Server, [0000090648282BC0][0000090648650000 50] Android, [0000090648288880][0000090648655000 50] Android_Preview_OpenGL, [000009064828C5C0][0000090648657800 50] Android_Preview_Vulkan, [000009064828A2C0][000009064865A000 50] Android_Low, [0000090648283F00][000009064865C800 50] Android_Mid, [000009064828B440][0000090648642800 50] Android_High, [0000090648282D80][0000090648660000 50] Android_Default, [0000090648288DC0][0000090648665000 50] Android_Adreno4xx, [00000906482894C0][0000090648667800 50] Android_Adreno5xx_Low, [000009064828B600][000009064866A000 50] Android_Adreno5xx, [000009064828D580][000009064866C800 50] Android_Adreno6xx, [000009064828B980][0000090648652800 50] Android_Adreno6xx_Vulkan, [000009064828CCC0][0000090648670000 50] Android_Adreno7xx, [000009064828D900][0000090648675000 50] Android_Adreno7xx_Vulkan, [000009064828C400][0000090648677800 50] Android_Mali_T6xx, [0000090648284B40][000009064867A000 50] Android_Mali_T7xx, [000009064828D740][000009064867C800 50] Android_Mali_T8xx, [00000906482878C0][0000090648662800 50] Android_Mali_G71, [000009064828BB40][0000090648680000 50] Android_Mali_G72, [000009064828DC80][0000090648685000 50] Android_Mali_G72_Vulkan, [0000090648287C40][0000090648687800 50] Android_Mali_G76, [000009064828BD00][000009064868A000 50] Android_Mali_G76_Vulkan, [000009064828DE40][000009064868C800 50] Android_Mali_G77, [000009064828BEC0][0000090648672800 50] Android_Mali_G77_Vulkan, [0000090648285CC0][0000090648690000 50] Android_Mali_G78, [000009064828E000][0000090648695000 50] Android_Mali_G78_Vulkan, [000009064828DAC0][0000090648697800 50] Android_Mali_G710, [0000090648285400][000009064869A000 50] Android_Mali_G710_Vulkan, [000009064828EC40][000009064869C800 50] Android_Xclipse_920, [0000090648285B00][0000090648682800 50] Android_Xclipse_920_Vulkan, [000009064828E700][00000906486A0000 50] Android_Vulkan_SM5, [000009064828EE00][00000906486A5000 50] Android_PowerVR_G6xxx, [000009064828E1C0][00000906486A7800 50] Android_PowerVR_GT7xxx, [000009064828B280][00000906486AA000 50] Android_PowerVR_GE8xxx, [000009064828EFC0][00000906486AC800 50] Android_PowerVR_GM9xxx, [000009064828B0C0][0000090648692800 50] Android_PowerVR_GM9xxx_Vulkan, [0000090648282F40][00000906486B0000 50] Android_TegraK1, [0000090648288340][00000906486B5000 50] Android_Unknown_Vulkan, [000009064828B7C0][00000906486B7800 50] Oculus_Quest, [0000090648570000][00000906486BA000 50] Oculus_Quest2, [0000090648572300][00000906486BC800 50] HoloLens, 
+[2022.08.16-11.58.56:447][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.16-11.58.56:464][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.16-11.58.56:464][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.16-11.58.56:464][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.16-11.58.56:464][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.16-11.58.56:464][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.16299.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.16-11.58.56:637][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.16-11.58.57:203][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.16-11.58.57:203][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.16-11.58.57:203][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.16-11.58.57:203][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.16-11.58.57:204][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.16-11.58.57:311][  0]LogNetVersion: LAB 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 122968038)
+[2022.08.16-11.58.57:944][  0]LogSlate: Border
+[2022.08.16-11.58.57:944][  0]LogSlate: BreadcrumbButton
+[2022.08.16-11.58.57:944][  0]LogSlate: Default
+[2022.08.16-11.58.57:944][  0]LogSlate: Icons.Save
+[2022.08.16-11.58.57:944][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.16-11.58.57:944][  0]LogSlate: ListView
+[2022.08.16-11.58.57:944][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.16-11.58.57:944][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.16-11.58.57:944][  0]LogSlate: TableView.DarkRow
+[2022.08.16-11.58.57:944][  0]LogSlate: TableView.Row
+[2022.08.16-11.58.57:944][  0]LogSlate: TreeView
+[2022.08.16-11.58.58:585][  0]SourceControl: Source control is disabled
+[2022.08.16-11.58.58:689][  0]SourceControl: Source control is disabled
+[2022.08.16-11.58.58:689][  0]SourceControl: Source control is disabled
+[2022.08.16-11.58.58:920][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.16-11.58.58:920][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.16-11.58.58:920][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.16-11.59.00:311][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9F07BAD74E52BACDDDA7F3B042BEC1EC | Instance: BBD3C78C4B4F2B60BFD728A1179C33DB (TOSSARN-DATOR-23844).
+[2022.08.16-11.59.01:292][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.16-11.59.01:331][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.16-11.59.01:410][  0]LogPython: Using Python 3.9.7
+[2022.08.16-11.59.03:459][  0]SourceControl: Source control is disabled
+[2022.08.16-11.59.03:481][  0]SourceControl: Source control is disabled
+[2022.08.16-11.59.03:528][  0]SourceControl: Source control is disabled
+[2022.08.16-11.59.03:602][  0]LogUProjectInfo: Found projects:
+[2022.08.16-11.59.05:692][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.16-11.59.05:874][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.16-11.59.05:992][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.16-11.59.05:992][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.16-11.59.06:491][  0]LogCollectionManager: Loaded 0 collections in 0.002442 seconds
+[2022.08.16-11.59.06:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Saved/Collections/' took 0.00s
+[2022.08.16-11.59.06:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/Developers/TossarN/Collections/' took 0.00s
+[2022.08.16-11.59.06:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/Collections/' took 0.00s
+[2022.08.16-11.59.07:482][  0]LogEngine: Initializing Engine...
+[2022.08.16-11.59.07:505][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.16-11.59.07:521][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.08.16-11.59.08:039][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.16-11.59.08:045][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.16-11.59.08:084][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-11.59.08:162][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.16-11.59.08:177][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.16-11.59.08:234][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.16-11.59.08:241][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.16-11.59.08:241][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.16-11.59.08:244][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.16-11.59.08:244][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.16-11.59.08:245][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.16-11.59.08:246][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.16-11.59.08:248][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.16-11.59.08:248][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.16-11.59.08:248][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.16-11.59.08:285][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.16-11.59.08:340][  0]LogAudioMixer: Display: Using Audio Hardware Device Hörlurar på headset (HyperX Virtual Surround Sound)
+[2022.08.16-11.59.08:342][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.16-11.59.08:361][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.16-11.59.08:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.16-11.59.08:364][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.16-11.59.08:364][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.16-11.59.08:365][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.16-11.59.08:365][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.16-11.59.08:365][  0]LogInit: FAudioDevice initialized.
+[2022.08.16-11.59.08:366][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.16-11.59.08:367][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.16-11.59.08:368][  0]LogInit: Texture streaming: Enabled
+[2022.08.16-11.59.08:454][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.16-11.59.08:478][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.16-11.59.08:542][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.16-11.59.08:572][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.16-11.59.08:572][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.16-11.59.11:122][  0]LogLiveCoding: Display: First instance in process group "UE_LAB_0x0ee0d868", spawning console
+[2022.08.16-11.59.11:122][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.16-11.59.11:122][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.16-11.59.11:155][  0]LogInit: Transaction tracking system initialized
+[2022.08.16-11.59.11:345][  0]BlueprintLog: New page: Editor Load
+[2022.08.16-11.59.11:876][  0]LocalizationService: Localization service is disabled
+[2022.08.16-11.59.11:983][  0]TimingProfiler: Initialize
+[2022.08.16-11.59.11:983][  0]TimingProfiler: OnSessionChanged
+[2022.08.16-11.59.11:984][  0]LoadingProfiler: Initialize
+[2022.08.16-11.59.11:984][  0]LoadingProfiler: OnSessionChanged
+[2022.08.16-11.59.11:985][  0]NetworkingProfiler: Initialize
+[2022.08.16-11.59.11:986][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.16-11.59.11:987][  0]MemoryProfiler: Initialize
+[2022.08.16-11.59.11:987][  0]MemoryProfiler: OnSessionChanged
+[2022.08.16-11.59.13:788][  0]LogFileCache: Scanning file cache for directory 'C:/Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/' took 0.01s
+[2022.08.16-11.59.13:788][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.16-11.59.14:006][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.16-11.59.14:014][  0]SourceControl: Source control is disabled
+[2022.08.16-11.59.14:015][  0]LogUnrealEdMisc: Loading editor; pre map load, took 35.896
+[2022.08.16-11.59.14:020][  0]Cmd: MAP LOAD FILE="../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-11.59.14:031][  0]LightingResults: New page: Lighting Build
+[2022.08.16-11.59.14:047][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-11.59.14:051][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-11.59.14:054][  0]MapCheck: New page: Map Check
+[2022.08.16-11.59.14:054][  0]LightingResults: New page: Lighting Build
+[2022.08.16-11.59.14:078][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-11.59.14:095][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.08.16-11.59.14:593][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.16-11.59.14:613][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.08.16-11.59.14:621][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.08.16-11.59.14:629][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.08.16-11.59.14:652][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.16-11.59.14:652][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.16-11.59.14:652][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-11.59.14:653][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.16-11.59.14:693][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-11.59.14:707][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.08.16-11.59.14:709][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-11.59.14:709][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,475ms to complete.
+[2022.08.16-11.59.14:710][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.690
+[2022.08.16-11.59.14:766][  0]LogUnrealEdMisc: Total Editor Startup Time, took 36.648
+[2022.08.16-11.59.14:766][  0]LogShaderCompilers: Display: ================================================
+[2022.08.16-11.59.14:766][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.16-11.59.14:766][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.16-11.59.14:767][  0]LogShaderCompilers: Display: ================================================
+[2022.08.16-11.59.14:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-11.59.14:989][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-11.59.14:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-11.59.15:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.16-11.59.15:092][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:092][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:099][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:099][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:106][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:106][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:112][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:112][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:127][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:127][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:133][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:133][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:139][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:139][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:145][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:145][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:150][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:150][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:156][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.16-11.59.15:156][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.16-11.59.15:157][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.16-11.59.15:596][  0]LogSlate: Took 0.005310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.16-11.59.15:611][  0]LogSlate: Took 0.004475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.16-11.59.15:618][  0]LogSlate: Took 0.004729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.16-11.59.15:625][  0]LogSlate: Took 0.003997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.16-11.59.15:633][  0]LogSlate: Took 0.005791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.16-11.59.15:659][  0]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
+[2022.08.16-11.59.16:495][  0]LogStall: Startup...
+[2022.08.16-11.59.16:498][  0]LogStall: Startup complete.
+[2022.08.16-11.59.16:541][  0]LogLoad: (Engine Initialization) Total time: 38.42 seconds
+[2022.08.16-11.59.16:541][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.16-11.59.16:590][  0]LogAssetRegistry: Asset discovery search completed in 21.1009 seconds
+[2022.08.16-11.59.16:624][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000169 seconds (updated 0 objects)
+[2022.08.16-11.59.16:655][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.16-11.59.17:024][  1]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.16-11.59.17:287][  2]LogSlate: Took 0.004981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.16-12.00.36:103][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.08.16-12.00.36:305][766]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2Dplatformer/DemoMap.DemoMap
+[2022.08.16-12.00.36:305][766]Cmd: MAP LOAD FILE="../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/2Dplatformer/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.16-12.00.36:306][766]LightingResults: New page: Lighting Build
+[2022.08.16-12.00.36:306][766]LoadErrors: New page: Loading map: DemoMap.umap
+[2022.08.16-12.00.36:338][766]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-12.00.36:338][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-12.00.36:339][766]MapCheck: New page: Map Check
+[2022.08.16-12.00.36:339][766]LightingResults: New page: Lighting Build
+[2022.08.16-12.00.36:345][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.16-12.00.36:350][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.08.16-12.00.36:365][766]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-12.00.36:365][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-12.00.36:375][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.16-12.00.36:382][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.08.16-12.00.36:392][766]LogAudio: Display: Audio Device (ID: 1) registered with world 'DemoMap'.
+[2022.08.16-12.00.36:392][766]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.16-12.00.36:392][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-12.00.36:393][766]LogAIModule: Creating AISystem for world DemoMap
+[2022.08.16-12.00.36:393][766]LogPhysics: Warning: Scale for /Game/2Dplatformer/DemoMap.DemoMap:PersistentLevel.exterior-parallaxBG1_Sprite7.RenderComponent has a component set to zero, which will result in a bad body instance. Scale:X=25.000 Y=0.000 Z=25.000
+[2022.08.16-12.00.36:394][766]LogPhysics: Warning: Scale for /Game/2Dplatformer/DemoMap.DemoMap:PersistentLevel.exterior-parallaxBG1_Sprite8.RenderComponent has a component set to zero, which will result in a bad body instance. Scale:X=25.000 Y=0.000 Z=25.000
+[2022.08.16-12.00.36:394][766]LogPhysics: Warning: Scale for /Game/2Dplatformer/DemoMap.DemoMap:PersistentLevel.exterior-parallaxBG1_Sprite9.RenderComponent has a component set to zero, which will result in a bad body instance. Scale:X=25.000 Y=0.000 Z=25.000
+[2022.08.16-12.00.36:409][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.16-12.00.36:426][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.16-12.00.36:435][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.16-12.00.36:435][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,116ms to complete.
+[2022.08.16-12.00.36:435][766]LogFileHelpers: Loading map 'DemoMap' took 0.129
+[2022.08.16-12.00.50:727][466]LogDerivedDataCache: C:/Users/TossarN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.186 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.16-12.02.08:441][100]LogEditorViewport: Clicking Background
+[2022.08.16-12.04.43:570][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/BPInterfaces/InteractionHandler': Can't find file.
+[2022.08.16-12.04.43:570][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/BPInterfaces/InteractionHandler'
+[2022.08.16-12.04.43:571][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/BPInterfaces/TouchHandler': Can't find file.
+[2022.08.16-12.04.43:571][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/BPInterfaces/TouchHandler'
+[2022.08.16-12.04.43:571][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/BPInterfaces/UICommunication': Can't find file.
+[2022.08.16-12.04.43:571][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/BPInterfaces/UICommunication'
+[2022.08.16-12.04.43:571][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Main/BP_GenericDoubleJumpWall': Can't find file.
+[2022.08.16-12.04.43:572][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Main/BP_GenericDoubleJumpWall'
+[2022.08.16-12.04.43:572][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Main/BP_Ladder': Can't find file.
+[2022.08.16-12.04.43:572][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Main/BP_Ladder'
+[2022.08.16-12.04.43:572][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/BP_Player_MeleeAttackDamageZone_Default': Can't find file.
+[2022.08.16-12.04.43:572][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/BP_Player_MeleeAttackDamageZone_Default'
+[2022.08.16-12.04.43:572][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/BP_Player_MeleeAttackDamageZone_Orange': Can't find file.
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/BP_Player_MeleeAttackDamageZone_Orange'
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/BP_Player_MeleeAttackDamageZone_Purple': Can't find file.
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/BP_Player_MeleeAttackDamageZone_Purple'
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/BP_Player_Projectile_Default': Can't find file.
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/BP_Player_Projectile_Default'
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/BP_Player_Projectile_Orange': Can't find file.
+[2022.08.16-12.04.43:573][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/BP_Player_Projectile_Orange'
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/BP_Player_Projectile_Purple': Can't find file.
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/BP_Player_Projectile_Purple'
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/LevelUp': Can't find file.
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/LevelUp'
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/Player_Character': Can't find file.
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/Player_Character'
+[2022.08.16-12.04.43:574][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Player/PlayerShake': Can't find file.
+[2022.08.16-12.04.43:575][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Player/PlayerShake'
+[2022.08.16-12.04.43:579][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Enumerations/player_anim_state': Can't find file.
+[2022.08.16-12.04.43:579][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Enumerations/player_anim_state'
+[2022.08.16-12.04.43:579][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Enumerations/power_up_list': Can't find file.
+[2022.08.16-12.04.43:579][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Enumerations/power_up_list'
+[2022.08.16-12.04.43:581][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Blueprints/Structures/WeaponStructure': Can't find file.
+[2022.08.16-12.04.43:581][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Blueprints/Structures/WeaponStructure'
+[2022.08.16-12.04.43:581][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/FX/Blood_death': Can't find file.
+[2022.08.16-12.04.43:581][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/FX/Blood_death'
+[2022.08.16-12.04.43:582][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/FX/Blood_hit': Can't find file.
+[2022.08.16-12.04.43:582][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/FX/Blood_hit'
+[2022.08.16-12.04.43:582][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/FX/Impact': Can't find file.
+[2022.08.16-12.04.43:582][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/FX/Impact'
+[2022.08.16-12.04.43:582][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/SFX/Dash': Can't find file.
+[2022.08.16-12.04.43:582][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/SFX/Dash'
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/SFX/Explosion39': Can't find file.
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/SFX/Explosion39'
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/SFX/Hit_Hurt23': Can't find file.
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/SFX/Hit_Hurt23'
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/SFX/Jump39': Can't find file.
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/SFX/Jump39'
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/SFX/Laser_Shoot8': Can't find file.
+[2022.08.16-12.04.43:583][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/SFX/Laser_Shoot8'
+[2022.08.16-12.04.43:584][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/SFX/LevelUp': Can't find file.
+[2022.08.16-12.04.43:584][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/SFX/LevelUp'
+[2022.08.16-12.04.43:584][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_melee': Can't find file.
+[2022.08.16-12.04.43:584][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_melee'
+[2022.08.16-12.04.43:584][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_melee_air': Can't find file.
+[2022.08.16-12.04.43:584][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_melee_air'
+[2022.08.16-12.04.43:585][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_melee_move': Can't find file.
+[2022.08.16-12.04.43:585][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_melee_move'
+[2022.08.16-12.04.43:585][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_ranged': Can't find file.
+[2022.08.16-12.04.43:585][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_ranged'
+[2022.08.16-12.04.43:585][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_ranged_air': Can't find file.
+[2022.08.16-12.04.43:585][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_ranged_air'
+[2022.08.16-12.04.43:586][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_ranged_move': Can't find file.
+[2022.08.16-12.04.43:586][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_attack_ranged_move'
+[2022.08.16-12.04.43:586][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_block': Can't find file.
+[2022.08.16-12.04.43:586][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_block'
+[2022.08.16-12.04.43:586][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_block_air': Can't find file.
+[2022.08.16-12.04.43:586][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_block_air'
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_block_move': Can't find file.
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_block_move'
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_fall': Can't find file.
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_fall'
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_fallend': Can't find file.
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_fallend'
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_idle': Can't find file.
+[2022.08.16-12.04.43:587][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_idle'
+[2022.08.16-12.04.43:588][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_jump': Can't find file.
+[2022.08.16-12.04.43:588][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_jump'
+[2022.08.16-12.04.43:588][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_jump_start': Can't find file.
+[2022.08.16-12.04.43:588][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_jump_start'
+[2022.08.16-12.04.43:588][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_walk': Can't find file.
+[2022.08.16-12.04.43:588][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_walk'
+[2022.08.16-12.04.43:589][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_walk_start': Can't find file.
+[2022.08.16-12.04.43:589][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_walk_start'
+[2022.08.16-12.04.43:589][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_walk_stop': Can't find file.
+[2022.08.16-12.04.43:589][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Sprites/Character/Flipbooks/anim_walk_stop'
+[2022.08.16-12.04.43:589][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Textures/w_axe_hand': Can't find file.
+[2022.08.16-12.04.43:589][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Textures/w_axe_hand'
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Textures/w_axe_hand_cold02': Can't find file.
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Textures/w_axe_hand_cold02'
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Textures/w_axe_hand_fire': Can't find file.
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Textures/w_axe_hand_fire'
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Widgets/healthDepleted': Can't find file.
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Widgets/healthDepleted'
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Widgets/healthFull': Can't find file.
+[2022.08.16-12.04.43:590][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Widgets/healthFull'
+[2022.08.16-12.04.43:591][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Widgets/HUD': Can't find file.
+[2022.08.16-12.04.43:591][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Widgets/HUD'
+[2022.08.16-12.04.43:591][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Widgets/PauseMenu': Can't find file.
+[2022.08.16-12.04.43:591][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Widgets/PauseMenu'
+[2022.08.16-12.04.43:591][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Widgets/pickupText': Can't find file.
+[2022.08.16-12.04.43:591][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Widgets/pickupText'
+[2022.08.16-12.04.43:592][614]LogLinker: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: Failed to load '/Game/2DPlatformingKit/Widgets/WeaponWidget': Can't find file.
+[2022.08.16-12.04.43:592][614]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/2DPlatformingKit/Widgets/WeaponWidget'
+[2022.08.16-12.04.43:599][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:WeaponList.WeaponList'. Unknown structure.
+[2022.08.16-12.04.43:600][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:PickUpWeapon:CallFunc_Array_Get_Item'. Unknown structure.
+[2022.08.16-12.04.43:600][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:PickUpWeapon:K2Node_MakeStruct_WeaponStructure'. Unknown structure.
+[2022.08.16-12.04.43:600][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:EquipWeapon:CallFunc_Array_Get_Item'. Unknown structure.
+[2022.08.16-12.04.43:600][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:EquipWeapon:K2Node_MakeStruct_WeaponStructure'. Unknown structure.
+[2022.08.16-12.04.43:600][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:EquipWeapon:CallFunc_Array_Get_Item_1'. Unknown structure.
+[2022.08.16-12.04.43:601][614]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/2Dplatformer/Player_Character.Player_Character_C:EquipWeapon:K2Node_MakeStruct_WeaponStructure_1'. Unknown structure.
+[2022.08.16-12.04.43:624][614]LogClass: Warning: Array Property WeaponList of WeaponList contains a struct type mismatch (tag WeaponStructure != prop FallbackStruct) in package:  /Game/2Dplatformer/Player_Character. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.08.16-12.04.43:774][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:776][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.08.16-12.04.43:778][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:779][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:780][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:784][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Hide Mobile Buttons . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:785][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Target  no longer exists on node  Hide Mobile Buttons . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:785][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a function named "HideMobileButtons" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Hide Mobile Buttons
+[2022.08.16-12.04.43:785][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  HUD  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:786][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Down' for  InputAction Down
+[2022.08.16-12.04.43:787][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveUp' for  InputAxis MoveUp
+[2022.08.16-12.04.43:788][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "WeaponID" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Get WeaponID
+[2022.08.16-12.04.43:788][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Weapon Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:788][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:789][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:789][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:789][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Damage Amount  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:789][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a function named "actorDamagedByObject" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Invalid Message Node
+[2022.08.16-12.04.43:790][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "TextColor" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set TextColor
+[2022.08.16-12.04.43:790][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "DisplayText" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set DisplayText
+[2022.08.16-12.04.43:794][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Dash' for  InputAction Dash
+[2022.08.16-12.04.43:794][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "DisplayText" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set DisplayText
+[2022.08.16-12.04.43:794][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "TextColor" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set TextColor
+[2022.08.16-12.04.43:795][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "TextColor" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set TextColor
+[2022.08.16-12.04.43:795][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "DisplayText" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set DisplayText
+[2022.08.16-12.04.43:796][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.08.16-12.04.43:796][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.08.16-12.04.43:798][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  HUD  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:798][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:802][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Block' for  InputAction Block
+[2022.08.16-12.04.43:802][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Ranged' for  InputAction Ranged
+[2022.08.16-12.04.43:805][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] InputAction Event references unknown Action 'Melee' for  InputAction Melee
+[2022.08.16-12.04.43:810][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:811][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Health Background Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:811][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Health Background Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:813][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:815][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Health Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:815][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Health Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:817][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  HUD  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:817][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Player Died . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:818][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Target  no longer exists on node  Player Died . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:818][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Touch Interface Enabled?  no longer exists on node  Player Died . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:818][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a function named "PlayerDied" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Player Died
+[2022.08.16-12.04.43:828][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.08.16-12.04.43:828][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "weaponImage" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set weaponImage
+[2022.08.16-12.04.43:828][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Weapon Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:829][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "WeaponID" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set WeaponID
+[2022.08.16-12.04.43:831][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Weapon Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:831][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "weaponImageBrush" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set weaponImageBrush
+[2022.08.16-12.04.43:831][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "weaponImageBrush" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Get weaponImageBrush
+[2022.08.16-12.04.43:831][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Weapon Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:831][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "weaponImageBrush" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Set weaponImageBrush
+[2022.08.16-12.04.43:831][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a variable named "weaponImageBrushDefault" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Get weaponImageBrushDefault
+[2022.08.16-12.04.43:832][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Weapon Icon Array  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:835][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.08.16-12.04.43:835][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:835][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:836][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:836][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  New Level  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:836][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Could not find a function named "levelUp" in 'Player_Character'.
+Make sure 'Player_Character' has been compiled for  Invalid Message Node
+[2022.08.16-12.04.43:836][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] In use pin  HUD  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.08.16-12.04.43:837][614]LogBlueprint: Error: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.08.16-12.04.43:837][614]LogBlueprint: Warning: [AssetLog] C:\Users\TossarN\Documents\GitHub\Fighting-Game\LAB\Content\2Dplatformer\Player_Character.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2022.08.16-12.04.43:858][614]LogClass: Warning: Array Property WeaponList of WeaponList contains a struct type mismatch (tag FallbackStruct != prop WeaponStructure) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.08.16-12.04.43:903][614]LogMaterial: Display: Missing cached shadermap for Dirt in PCD3D_SM5, Default, SM5 (DDC key hash: 25F61C532FFEB1796F93AAB234849B86761341CD), compiling. 
+[2022.08.16-12.04.44:054][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2Dplatformer/Player_Character.Player_Character
+[2022.08.16-12.04.44:055][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-12.04.49:297][614]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.08.16-12.04.49:297][614]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049693s
+[2022.08.16-12.04.49:588][614]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001408s (1.276736s overbudget)
+[2022.08.16-12.04.49:694][614]LogSlate: Took 0.008196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.16-12.04.52:041][627]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: ================================================
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: Total job queries 48, among them cache hits 0 (0.00%)
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: Shaders Compiled: 48
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: Jobs assigned 43, completed 10 (23.26%)
+[2022.08.16-12.04.54:216][687]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Time job spent in pending queue: average 0.77 s, longest 10.17 s
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Job execution time: average 10.11 s, max 10.11 s
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Job life time (pending + execution): average 10.17 s, max 10.17
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.17 s
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 8.60 jobs/batch
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Average processing rate: 0.98 jobs/sec
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Effective parallelization: 0.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.97 sec, max 1.04 sec, min 0.90 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 21.35% of total time (compiled    2 times, average 0.97 sec, max 1.04 sec, min 0.90 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 16.94% of total time (compiled    2 times, average 0.77 sec, max 0.91 sec, min 0.63 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:                                             FDebugViewModeVS - 16.12% of total time (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.48% of total time (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 10.13% of total time (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2022.08.16-12.04.54:217][687]LogShaderCompilers: Display: ================================================
+[2022.08.16-12.05.40:091][944]LogSlate: Window 'Player_Character' being destroyed
+[2022.08.16-12.05.40:097][944]LogSlate: Window 'Player_Character' being destroyed
+[2022.08.16-12.05.40:107][944]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-12.05.40:107][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-12.06.51:399][924]LogEditorViewport: Clicking Background
+[2022.08.16-12.07.00:571][817]LogEditorViewport: Clicking Background
+[2022.08.16-12.13.04:398][212]LogEditorViewport: Clicking Background
+[2022.08.16-12.13.12:201][998]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2Dplatformer/Demo_Tilemap_Main.Demo_Tilemap_Main
+[2022.08.16-12.13.12:204][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-12.13.12:310][998]LogViewport: Scene viewport resized to 333x590, mode Windowed.
+[2022.08.16-12.13.12:346][998]LogViewport: Scene viewport resized to 921x700, mode Windowed.
+[2022.08.16-12.13.12:377][998]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.16-12.14.35:375][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.08.16-12.14.35:379][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2Dplatformer/DemoMap' took 0.043
+[2022.08.16-12.14.35:380][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2Dplatformer/Demo_Tilemap_Main] ([1] browsable assets)...
+[2022.08.16-12.14.35:380][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/2Dplatformer/Demo_Tilemap_Main]
+[2022.08.16-12.14.35:390][559]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008355 seconds
+[2022.08.16-12.14.35:925][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/2Dplatformer/Demo_Tilemap_Main_Auto1
+[2022.08.16-12.14.35:925][559]LogSavePackage: Moving '../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Saved/Demo_Tilemap_Main_Auto1C10E57F34FED807D20B6E7B597E51465.tmp' to '../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Saved/Autosaves/Game/2Dplatformer/Demo_Tilemap_Main_Auto1.uasset'
+[2022.08.16-12.14.35:927][559]LogFileHelpers: Auto-saving content packages took 0.548
+[2022.08.16-12.16.21:271][330]LogSlate: Window 'Demo_Tilemap_Main*' being destroyed
+[2022.08.16-12.16.21:277][330]LogSlate: Window 'Demo_Tilemap_Main*' being destroyed
+[2022.08.16-12.16.21:286][330]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-12.16.21:286][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-12.16.43:060][787]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.08.16-12.16.43:060][787]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.08.16-12.17.29:517][100]LogContentBrowser: Deferred new asset file creation: NewPaperTileMap
+[2022.08.16-12.17.29:523][100]LogContentBrowser: Creating deferred item: NewPaperTileMap
+[2022.08.16-12.17.29:574][102]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperTileMap).
+[2022.08.16-12.17.47:072][180]LogContentBrowser: Attempting asset rename: NewPaperTileMap -> DemoLABMAP
+[2022.08.16-12.17.47:074][180]LogContentBrowser: End creating deferred item NewPaperTileMap
+[2022.08.16-12.17.55:946][201]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/DemoLAB/DemoLABMAP.DemoLABMAP
+[2022.08.16-12.17.55:947][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.16-12.17.56:033][201]LogViewport: Scene viewport resized to 333x590, mode Windowed.
+[2022.08.16-12.17.56:058][201]LogViewport: Scene viewport resized to 921x700, mode Windowed.
+[2022.08.16-12.22.52:114][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DemoLAB/DemoLABMAP" FILE="../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/DemoLAB/DemoLABMAP.uasset" SILENT=true
+[2022.08.16-12.22.52:157][534]LogSavePackage: Moving output files for package: /Game/DemoLAB/DemoLABMAP
+[2022.08.16-12.22.52:157][534]LogSavePackage: Moving '../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Saved/DemoLABMAP556E72D34B222AFB6D0B04BF50710677.tmp' to '../../../../../../Users/TossarN/Documents/GitHub/Fighting-Game/LAB/Content/DemoLAB/DemoLABMAP.uasset'
+[2022.08.16-12.22.52:177][534]AssetCheck: New page: Asset Save: DemoLABMAP
+[2022.08.16-12.22.52:177][534]LogContentValidation: Display: Validating PaperTileMap /Game/DemoLAB/DemoLABMAP.DemoLABMAP
+[2022.08.16-12.23.09:994][301]LogSlate: Window 'DemoLABMAP' being destroyed
+[2022.08.16-12.23.10:002][301]LogSlate: Window 'DemoLABMAP' being destroyed
+[2022.08.16-12.23.10:007][301]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.08.16-12.23.10:011][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.16-12.23.12:098][301]LogWindows: Error: === Critical error: ===
+[2022.08.16-12.23.12:098][301]LogWindows: Error: 
+[2022.08.16-12.23.12:098][301]LogWindows: Error: Fatal error!
+[2022.08.16-12.23.12:098][301]LogWindows: Error: 
+[2022.08.16-12.23.12:098][301]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000148
+[2022.08.16-12.23.12:098][301]LogWindows: Error: 
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb1f2f8570 UnrealEditor-Chaos.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb20cb3547 UnrealEditor-PhysicsCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb20cb2fa5 UnrealEditor-PhysicsCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb23a55dde UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb22fd6cd0 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb22f35170 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb22f39ddc UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb22f89ca1 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.08.16-12.23.12:098][301]LogWindows: Error: [Callstack] 0x00007ffb0a110d13 UnrealEditor-Paper2DEditor.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb3ff2bc30 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb3ff103fa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb3fa160a6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb3ff6d838 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb0a0bcab3 UnrealEditor-Paper2DEditor.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb3fa160a6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb40596d85 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e8c4ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e82c1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e8c4ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e82c1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e90687 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb465c8b9a UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb465bffc2 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e90607 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:099][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43e8c4ad UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43e82c1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43e90687 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43f6bdfe UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb43e82a89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb465bebea UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb46631280 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb465f9447 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb4401e347 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb4653145b UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb4653c704 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb4675ba3b UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb46782df6 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb46524034 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb46506fc6 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb465802ee UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb465691b1 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb4655d5dc UnrealEditor-Slate.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb9261a92e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:100][301]LogWindows: Error: [Callstack] 0x00007ffb92609247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffb9261ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffb926049a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbcaefe858 USER32.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbcaefe4ee USER32.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffb01557e59 InkObj.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbc44a1178 atlthunk.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbcaefe858 USER32.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbcaefe299 USER32.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffb9261e148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ff6d5287114 UnrealEditor.exe!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ff6d52a0d9c UnrealEditor.exe!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ff6d52a0e8a UnrealEditor.exe!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ff6d52a3c4d UnrealEditor.exe!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ff6d52b5564 UnrealEditor.exe!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ff6d52b8736 UnrealEditor.exe!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbc9b47034 KERNEL32.DLL!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: [Callstack] 0x00007ffbcb702651 ntdll.dll!UnknownFunction []
+[2022.08.16-12.23.12:101][301]LogWindows: Error: 
+[2022.08.16-12.23.12:105][301]LogExit: Executing StaticShutdownAfterError
+[2022.08.16-12.23.12:110][301]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.08.16-12.23.12:110][301]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.08.16-12.23.12:110][301]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.08.16-12.23.12:120][301]LogThreadingWindows: Error: Runnable thread StallDetectorThread crashed.
+[2022.08.16-12.23.12:120][301]LogWindows: Error: HandleError re-entered.
+[2022.08.16-12.23.12:121][301]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.08.16-12.23.12:121][301]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.08.16-12.23.12:121][301]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2022.08.16-12.23.12:130][301]Log file closed, 08/16/22 14:23:12
